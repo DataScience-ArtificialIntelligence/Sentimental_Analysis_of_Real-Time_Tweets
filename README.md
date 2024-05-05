@@ -3,23 +3,28 @@ Chandana.R - 21BDS010
 G.Thanmai - 21BDS033
 
 Repository Structure :
+
 The original dataset Twitter_Data.csv is uploaded in the repository.
 The preprocessed dataset is stored as Twitter_Dataset_After_Preprocessing.csv and uploaded in releases.
 All code, including preprocessing, model training, and the Flask web application, is available in Colab notebook 
 and vs code uploaded to the repository.
 
 Overview :
+
 This project conducts sentiment analysis on Twitter data collected during the Indian General Elections 2019.
 The dataset comprises approximately 1,63,000 tweets discussing various political leaders, including Modi, and 
 their impact on the elections. The project aims to analyze the sentiment expressed in these tweets and 
 compare the performance of different machine learning (ML) and deep learning (DL) models for sentiment analysis.
 
 Dataset Collection :
+
 The initial dataset containing tweets on Modi and other leaders during the Indian General Elections 2019 was collected from Kaggle.
 The dataset consists of approximately 1,63,000 tweets.
 
 Data Visualization :
+
 Data visualization techniques such as
+
 1.Bar Graph
 2.Pie Chart 
 3.Word Clouds(for each sentiment)
