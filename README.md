@@ -34,6 +34,7 @@ Data visualization techniques such as
 2.Pie Chart 
 
 3.Word Clouds(for each sentiment)
+
 were employed to gain insights into the distribution 
 of sentiment across various tweets.
 
@@ -54,6 +55,7 @@ Four models were selected for sentiment analysis:
 3.LSTM (Long Short-Term Memory)
 
 4.BERT (Bidirectional Encoder Representations from Transformers)
+
 Each model was trained on the preprocessed Twitter dataset, and their accuracies were evaluated along with classification reports.
 BERT achieved the highest accuracy among all models.
 
