@@ -67,6 +67,7 @@ Bert model outperformed in this analysis compared to other models used.
 Web Interface :
 
 A web interface was developed using Flask, allowing users to input a tweet and predict its sentiment using the trained BERT model.
+
 Technologies used are
 * Flask: Python web framework for building the interface.
 * BERT: Pre-trained transformer model for sentiment analysis.
